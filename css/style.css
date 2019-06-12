@@ -1,0 +1,21 @@
+.features .fas{
+    font-size: 50px;
+    color: firebrick;
+}
+
+.features .fab{
+    font-size: 30px;
+    color: navy;
+}
+
+.cambio .next{
+    color: chocolate;
+}
+
+.panel-footer .previous { 
+    text-align: left; 
+    } 
+    
+.panel-footer .next { 
+    text-align: right; 
+    } 
